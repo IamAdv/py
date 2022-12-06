@@ -69,3 +69,14 @@ print("""16,17,18,19
 60,61,62,63""")
 s6=input(ask)
 
+#the guess main structure below
+if s1=="y":
+      g1=1
+elif s1=="Y":
+      g1=1
+elif s1=="n":
+      g1=0
+elif s1=="N":
+      g1=0
+else:
+    print(guesserror)
