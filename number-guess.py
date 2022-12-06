@@ -69,6 +69,12 @@ print("""16,17,18,19
 60,61,62,63""")
 s6=input(ask)
 
+#error variable
+guesserror="""Error,
+Please type Either Y or N
+Please Ignore the Error Below!
+You Might See this Error Multiple Times Because You did not type the correct Value Multiple Times, What did you expect me to do, im too lazy to work on not Printing this Multiple"""
+
 #the guess main structure below
 if s1=="y":
       g1=1
