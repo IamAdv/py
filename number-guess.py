@@ -132,3 +132,14 @@ else:
     print(guesserror)
 
 
+#the final answer, this is how its done.
+Guess=g1+g2+g3+g4+g5+g6
+print("This is the number you guessed => ",Guess)
+
+#don't get scared, just an old school magic trick
+print("GG, I guess.")
+
+#Prevent Python From exiting automatically and ask user if they want to exit
+#incase the dude decides to run it off directly in a python launcher. hate it how it exits automatically
+EndPrompt=input("Press [Enter] to exit")
+exit()
