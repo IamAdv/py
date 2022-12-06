@@ -80,3 +80,55 @@ elif s1=="N":
       g1=0
 else:
     print(guesserror)
+if s2=="y":
+      g2=2
+elif s2=="Y":
+      g2=2
+elif s2=="n":
+      g2=0
+elif s2=="N":
+      g2=0
+else:
+    print(guesserror)
+if s3=="y":
+      g3=4
+elif s3=="Y":
+      g3=4
+elif s3=="n":
+      g3=0
+elif s3=="N":
+      g3=0
+else:
+    print(guesserror)
+if s4=="y":
+      g4=32
+elif s4=="Y":
+      g4=32
+elif s4=="n":
+      g4=0
+elif s4=="N":
+      g4=0
+else:
+    print(guesserror)
+if s5=="y":
+      g5=8
+elif s5=="Y":
+      g5=8
+elif s5=="n":
+      g5=0
+elif s5=="N":
+      g5=0
+else:
+    print(guesserror)
+if s6=="y":
+      g6=16
+elif s6=="Y":
+      g6=16
+elif s6=="n":
+      g6=0
+elif s6=="N":
+      g6=0
+else:
+    print(guesserror)
+
+
