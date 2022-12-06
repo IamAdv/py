@@ -141,5 +141,5 @@ print("GG, I guess.")
 
 #Prevent Python From exiting automatically and ask user if they want to exit
 #incase the dude decides to run it off directly in a python launcher. hate it how it exits automatically
-EndPrompt=input("Press [Enter] to exit")
+input("Press [Enter] to exit")
 exit()
