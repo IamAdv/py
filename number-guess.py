@@ -4,7 +4,7 @@ print()
 #blah blah blah
 print("Think of any number from 1 to 63 and I'll try to guess it.")
 print() #some spaces to make it not look scuffed.
-input("Press [Enter] if you guessed the number ")
+input("Press [Enter] If you thought of the number ")
 print()
 
 #The Set of numbers, im gonna throw at your face
